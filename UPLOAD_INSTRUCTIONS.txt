@@ -1,0 +1,27 @@
+CHURCH GOOGLE FAVICON — UPLOAD GUIDE
+
+A) EXISTING REPOSITORY: Hour-Of-Grace-Ministries-
+Upload from the main folder of this package:
+- index.html (replace existing)
+- favicon.png
+- favicon-192.png
+- apple-touch-icon.png
+- church-logo.png (optional)
+- robots.txt and sitemap.xml (same content as originals)
+Keep all your other existing website files.
+
+B) NEW REPOSITORY: hourofgrace.github.io
+Create a public repository with that exact name in the hourofgrace account.
+Enable Pages from main branch root. Upload the files INSIDE ROOT_SITE:
+- index.html
+- favicon.png
+- favicon-192.png
+- church-logo.png
+
+Check that https://hourofgrace.github.io/favicon.png opens the image.
+Your church website stays at https://hourofgrace.github.io/Hour-Of-Grace-Ministries-/
+
+C) GOOGLE SEARCH CONSOLE
+Inspect https://hourofgrace.github.io/Hour-Of-Grace-Ministries-/ and request indexing.
+The Google favicon is chosen per hostname and is not guaranteed; allow days or weeks.
+The site name shown in search results is also controlled by Google.

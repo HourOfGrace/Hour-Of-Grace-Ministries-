@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hourofgrace.github.io/Hour-Of-Grace-Ministries-/sitemap.xml
